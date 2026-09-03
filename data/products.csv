@@ -1124,7 +1124,7 @@ Product ID;Product;Brand;Category;pricing_role_category;URL;Price;Image URL;__ro
 1040847;Laura Mercier Holiday Set 2026 The Finishing Touch 29 gr;Laura Mercier;Makeup;;https://www.kicks.fi/haku?search-query=1040847;;https://images.matas.dk/encode/194250125030_20260819104100.jpg;1122;1040847
 1008540;MAC Studio Fix Powder Plus Foundation C4,5 12 g;MAC;Makeup;C;https://www.kicks.fi/haku?search-query=1008540;;https://images.matas.dk/encode/773602737413_20250429180449.jpg;1123;1008540
 839902;Elf Halo Glow Liquid Filter 3 Light/Medium FLP;e.l.f.;Makeup;AA;https://www.kicks.fi/haku?search-query=839902;;https://images.matas.dk/encode/609332821156_20240702011523.jpg;1124;839902
-828933;Elvital Glycolic Gloss Conditioner 150 ml FLP;L’Oréal Paris;Hair care and styling;C;https://www.kicks.fi/haku?search-query=828933;;https://images.matas.dk/encode/3600524135669_1_20240129153505.jpg;1125;828933
+828933;Elvital Glycolic Gloss Conditioner 150 ml FLP;L’Oréal Paris;Hair care and styling;C;https://www.kicks.fi/haku?search-query=828933;7.50;https://images.matas.dk/encode/3600524135669_1_20240129153505.jpg;1125;828933
 1014573;V&R Spicebomb Extreme EDP 90 ml (G);Viktor & Rolf;Fragrances;C;https://www.kicks.fi/haku?search-query=1014573;;https://images.matas.dk/encode/3614270659706_20250416180353.jpg;1126;1014573
 784301;ACO Spotless Daily Face Wash 200 ml  eta ult marts;ACO;Skin care;;https://www.kicks.fi/haku?search-query=784301;;https://images.matas.dk/encode/784301_1.jpg;1127;784301
 760553;CH Rouge Coco Flash 148 Lively;CHANEL;Makeup;;https://www.kicks.fi/haku?search-query=760553;;;1128;760553
@@ -19576,7 +19576,7 @@ Product ID;Product;Brand;Category;pricing_role_category;URL;Price;Image URL;__ro
 781359;MAC Colour Excess Gel Pencil Serial Monogamist 0,35 g;MAC;Makeup;C;https://www.kicks.fi/haku?search-query=781359;;https://images.matas.dk/encode/781359_Swatch_20231027171514.jpg;19574;781359
 824703;Nivea Luminous Anti Stretch Marks Body Oil-Serum 100 ml;Nivea;Skin care;C;https://www.kicks.fi/haku?search-query=824703;;https://images.matas.dk/encode/6001051005826_20240115163503.jpg;19575;824703
 825707;YSL Rouge Pur Couture Pure Color-In-Care Satin Lipst R10;Yves Saint Laurent;Makeup;C;https://www.kicks.fi/haku?search-query=825707;;https://images.matas.dk/encode/3614273945257_20241028181131.jpg;19576;825707
-828931;Elvital Glycolic Gloss Shine Treatment 200 ml FLP;L’Oréal Paris;Hair care and styling;B;https://www.kicks.fi/haku?search-query=828931;;https://images.matas.dk/encode/3600524128449_1_20240129153502.jpg;19577;828931
+828931;Elvital Glycolic Gloss Shine Treatment 200 ml FLP;L’Oréal Paris;Hair care and styling;B;https://www.kicks.fi/haku?search-query=828931;7.50;https://images.matas.dk/encode/3600524128449_1_20240129153502.jpg;19577;828931
 693730;Burberry Brit For Her EDP 50 ml;Burberry;Fragrances;;https://www.kicks.fi/haku?search-query=693730;;https://images.matas.dk/encode/3614226905062_20260601180808.jpg;19578;693730
 779457;Vichy Neovadiol Peri-Menopause natcreme 50 ml;Vichy;Skin care;A;https://www.kicks.fi/haku?search-query=779457;;https://images.matas.dk/encode/3337875774086_20250926181100.jpg;19579;779457
 842120;La Bruket 313 Candle Beach Fire 50 g;LA BRUKET;Sleep and relaxation;C;https://www.kicks.fi/haku?search-query=842120;;https://images.matas.dk/encode/7350144741820_20250227180434.jpg;19580;842120
@@ -29985,7 +29985,7 @@ Product ID;Product;Brand;Category;pricing_role_category;URL;Price;Image URL;__ro
 751982;GAB Eye Tint 10;Armani;Makeup;C;https://www.kicks.fi/haku?search-query=751982;;https://images.matas.dk/encode/751982_1_20231020102201.jpg;29983;751982
 1024883;EP Nice Bergamote BAM Hand And Body Soap 500Ml;Essential Parfums;Skin care;;https://www.kicks.fi/haku?search-query=1024883;;https://images.matas.dk/encode/3770010614326_20250708180100.jpg;29984;1024883
 10359470;The Body Shop Vanilla Hand Balm  30 ml;THE BODY SHOP;Skin care;;https://www.kicks.fi/haku?search-query=10359470;;https://images.matas.dk/encode/10359470_20260727132000.jpg;29985;10359470
-828932;Elvital Glycolic Gloss Leave-in Serum 150 ml FLP;L’Oréal Paris;Hair care and styling;B;https://www.kicks.fi/haku?search-query=828932;;https://images.matas.dk/encode/3600524135447_1_20240129153501.jpg;29986;828932
+828932;Elvital Glycolic Gloss Leave-in Serum 150 ml FLP;L’Oréal Paris;Hair care and styling;B;https://www.kicks.fi/haku?search-query=828932;11.40;https://images.matas.dk/encode/3600524135447_1_20240129153501.jpg;29986;828932
 1000545;ICONIC LONDON Brow Gel Tint and Texture Chestnut Brown 3 ml;ICONIC LONDON;Makeup;C;https://www.kicks.fi/haku?search-query=1000545;;https://images.matas.dk/encode/5060945311147_20240209154537.jpg;29987;1000545
 800147;CLI Even Better Clinical Serum Foundation Spf 20 Wn 16;Clinique;Makeup;;https://www.kicks.fi/haku?search-query=800147;;;29988;800147
 1015093;Atelier Des Ors Musc Immortel EDP 100 ml (W);ATELIER DES ORS;Fragrances;;https://www.kicks.fi/haku?search-query=1015093;;https://images.matas.dk/encode/3760027140185_20250129041200.jpg;29989;1015093
