@@ -482,7 +482,7 @@ Product ID;Product;Brand;Category;pricing_role_category;URL;Price;Image URL;__ro
 762584;CLI Moisture Surge Int. 72-Hour Lipid-ReplHydrat 30 ml (G);Clinique;Skin care;A;https://www.kicks.fi/haku?search-query=762584;;https://images.matas.dk/encode/192333042793_20240607105952.jpg;480;762584
 845941;Kicks Beauty Nail Decor Stickers Cherry;KICKS Beauty;Makeup;;https://www.kicks.fi/haku?search-query=845941;;https://images.matas.dk/encode/5719808459419_20260401135500.jpg;481;845941
 777303;Parfums De Marly Delina La Rosee 75Ml;Parfums De Marly;Fragrances;C;https://www.kicks.fi/haku?search-query=777303;;https://images.matas.dk/encode/3700578501967_1_20260128180500.jpg;482;777303
-1025033;Elvital Growth Booster Balsam mod hårtab 150 ml;L’Oréal Paris;Hair care and styling;C;https://www.kicks.fi/haku?search-query=1025033;;https://images.matas.dk/encode/3600524222888_20250620180400.jpg;483;1025033
+1025033;Elvital Growth Booster Balsam mod hårtab 150 ml;L’Oréal Paris;Hair care and styling;C;https://www.kicks.fi/haku?search-query=1025033;7.50;https://images.matas.dk/encode/3600524222888_20250620180400.jpg;483;1025033
 1001193;Burberry Goddess Intense EDP 50 ML;Burberry;Fragrances;C;https://www.kicks.fi/haku?search-query=1001193;;https://images.matas.dk/encode/3616304967115_20251106124700.jpg;484;1001193
 657645;MBS Men Hair & Bodyshampoo normal hud 250 ml (P);Matas Striber;Skin care;;https://www.kicks.fi/haku?search-query=657645;;https://images.matas.dk/encode/657645_1.jpg;485;657645
 785830;MAC Pro Palette Frost L.E.S Artiste;MAC;Makeup;C;https://www.kicks.fi/haku?search-query=785830;;https://images.matas.dk/encode/785830_Swatch_20231027155833.jpg;486;785830
@@ -3403,7 +3403,7 @@ Product ID;Product;Brand;Category;pricing_role_category;URL;Price;Image URL;__ro
 1000460;ICONIC LONDON Seamless Concealer Deepest Nude 4,2 ml;ICONIC LONDON;Makeup;;https://www.kicks.fi/haku?search-query=1000460;;https://images.matas.dk/encode/5060490921600_20240209153535.jpg;3401;1000460
 799140;LU Men Shampoo 200 ML (W);Lumene;Hair care and styling;C;https://www.kicks.fi/haku?search-query=799140;;https://images.matas.dk/encode/6412600807417_20240823142626.jpg;3402;799140
 1034310;BAX Sleek Stick 25 g;Björn Axén;Hair care and styling;A;https://www.kicks.fi/haku?search-query=1034310;;https://images.matas.dk/encode/7350001707396_20260703085700.jpg;3403;1034310
-804446;Elvital Bond Repair Pre-Shampoo 200 ml FLP;L’Oréal Paris;Hair care and styling;C;https://www.kicks.fi/haku?search-query=804446;11.40;https://images.matas.dk/encode/3600524074586_20251217180250.jpg;3404;804446
+804446;Elvital Bond Repair Pre-Shampoo 200 ml FLP;L’Oréal Paris;Hair care and styling;C;https://www.kicks.fi/haku?search-query=804446;;https://images.matas.dk/encode/3600524074586_20251217180250.jpg;3404;804446
 1037329;Xlash Longevity Multi-Zone Gels;Xlash;Skin care;C;https://www.kicks.fi/haku?search-query=1037329;;https://images.matas.dk/encode/7350128932145_1_20260504180400.jpg;3405;1037329
 816200;Löwengrip Blonde Perfection Silver Conditioner 200 ml;Löwengrip;Hair care and styling;C;https://www.kicks.fi/haku?search-query=816200;;;3406;816200
 1004662;NARS Aqua Infused Makeup Removing Water 200ml;NARS;Skin care;C;https://www.kicks.fi/haku?search-query=1004662;;https://images.matas.dk/encode/607845048374_1_20240917113334.jpg;3407;1004662
@@ -14575,7 +14575,7 @@ Product ID;Product;Brand;Category;pricing_role_category;URL;Price;Image URL;__ro
 844784;CH Coco Mademoiselle Body Oil 200 ml;CHANEL;Skin care;;https://www.kicks.fi/haku?search-query=844784;;https://images.matas.dk/encode/3145891167009_20250331180300.jpg;14573;844784
 776213;MINERALIST Lasting Eyeliner;bareMinerals;Makeup;C;https://www.kicks.fi/haku?search-query=776213;;https://images.matas.dk/encode/194248015282_20240115174137.jpg;14574;776213
 661457;Essie Negle Remover 01 Good as Gone (M);essie;Makeup;B;https://www.kicks.fi/haku?search-query=661457;;https://images.matas.dk/encode/661457_1.jpg;14575;661457
-1025028;Elvital Growth Booster Shampoo mod hårtab 200 ml FLP;L’Oréal Paris;Hair care and styling;C;https://www.kicks.fi/haku?search-query=1025028;;https://images.matas.dk/encode/3600524222895_20250620180200.jpg;14576;1025028
+1025028;Elvital Growth Booster Shampoo mod hårtab 200 ml FLP;L’Oréal Paris;Hair care and styling;C;https://www.kicks.fi/haku?search-query=1025028;7.50;https://images.matas.dk/encode/3600524222895_20250620180200.jpg;14576;1025028
 992722;Versace Pour Homme EDT 30 Ml (X);Versace;Fragrances;B;https://www.kicks.fi/haku?search-query=992722;;https://images.matas.dk/encode/8011003995943_20251218101200.jpg;14577;992722
 1034349;HUFS Ocean Spray 50ml;HUFS;Hair care and styling;C;https://www.kicks.fi/haku?search-query=1034349;;https://images.matas.dk/encode/7090050870992_20251128122600.jpg;14578;1034349
 770762;Mario Badescu Enzyme Cleansing Gel 236 ml;Mario Badescu;Skin care;C;https://www.kicks.fi/haku?search-query=770762;;;14579;770762
@@ -17056,7 +17056,7 @@ Product ID;Product;Brand;Category;pricing_role_category;URL;Price;Image URL;__ro
 594222;Essie Lovie Dovie 20 (M);essie;Makeup;B;https://www.kicks.fi/haku?search-query=594222;;https://images.matas.dk/encode/594222_1.jpg;17054;594222
 818147;Exuviance Rebuild-5 Cream 50ml;Exuviance;Skin care;C;https://www.kicks.fi/haku?search-query=818147;;https://images.matas.dk/encode/732013203306.jpg;17055;818147
 825533;KI Calendula Skin-Soothing & Stabilizing Emulsion 125 ml;Kiehl’s;Skin care;C;https://www.kicks.fi/haku?search-query=825533;;https://images.matas.dk/encode/3605972858313_20240528143810.jpg;17056;825533
-804449;Elvital Bond Repair Leave In Serum 150 ml FLP;L’Oréal Paris;Hair care and styling;C;https://www.kicks.fi/haku?search-query=804449;11.40;https://images.matas.dk/encode/3600524075644_20251217180151.jpg;17057;804449
+804449;Elvital Bond Repair Leave In Serum 150 ml FLP;L’Oréal Paris;Hair care and styling;C;https://www.kicks.fi/haku?search-query=804449;;https://images.matas.dk/encode/3600524075644_20251217180151.jpg;17057;804449
 795127;Eleven Australia Keep My Colour Blonde Conditioner 300 ml;Eleven Australia;Hair care and styling;;https://www.kicks.fi/haku?search-query=795127;;https://images.matas.dk/encode/9346627002906_1_20250219040000.jpg;17058;795127
 1010075;BI Aquasource Hyaluplump Gel 30 ml (OS);Biotherm;Skin care;C;https://www.kicks.fi/haku?search-query=1010075;;https://images.matas.dk/encode/3614274521429_20250915180620.jpg;17059;1010075
 844259;MF Eyeliner Pencil Pretty Turquoise 520 1,2 g;Max Factor;Makeup;C;https://www.kicks.fi/haku?search-query=844259;;https://images.matas.dk/encode/3616306168596_20250102180100.jpg;17060;844259
@@ -22633,7 +22633,7 @@ Product ID;Product;Brand;Category;pricing_role_category;URL;Price;Image URL;__ro
 776510;LOR Superliner Perfect Slim 02 Grey;L’Oréal Paris;Makeup;C;https://www.kicks.fi/haku?search-query=776510;;https://images.matas.dk/encode/776510_1.jpg;22631;776510
 1036870;Hairlust Large Flat Claw Hair Clip, Beige Shell;Hairlust;Hair care and styling;C;https://www.kicks.fi/haku?search-query=1036870;;https://images.matas.dk/encode/5714628004801_20260217075700.jpg;22632;1036870
 1030115;Dior Forever Skin Glow 3N 30 ml (G);DIOR;Makeup;B;https://www.kicks.fi/haku?search-query=1030115;;https://images.matas.dk/encode/3348901792882_20260216143400.jpg;22633;1030115
-804448;Elvital Bond Repair Conditioner 150 ml FLP;L’Oréal Paris;Hair care and styling;C;https://www.kicks.fi/haku?search-query=804448;7.50;https://images.matas.dk/encode/3600524074869_20251217180150.jpg;22634;804448
+804448;Elvital Bond Repair Conditioner 150 ml FLP;L’Oréal Paris;Hair care and styling;C;https://www.kicks.fi/haku?search-query=804448;;https://images.matas.dk/encode/3600524074869_20251217180150.jpg;22634;804448
 774022;NYX PMU Lip Lingerie XXL Matte Liquid Lipstick Knoc;NYX PROFESSIONAL MAKEUP;Makeup;C;https://www.kicks.fi/haku?search-query=774022;;https://images.matas.dk/encode/774022_1.jpg;22635;774022
 843644;CH Rouge Coco Baume Shine B. Pink 758;CHANEL;Makeup;;https://www.kicks.fi/haku?search-query=843644;;https://images.matas.dk/encode/3145891717587_20241223180200.jpg;22636;843644
 694062;LIV Restore Shampoo 236 ml;Living Proof;Hair care and styling;;https://www.kicks.fi/haku?search-query=694062;;https://images.matas.dk/encode/694062_1.jpg;22637;694062
@@ -23048,7 +23048,7 @@ Product ID;Product;Brand;Category;pricing_role_category;URL;Price;Image URL;__ro
 1009826;Dior Addict Lip Glow 000 Universal Clear 3,2 g;DIOR;Makeup;C;https://www.kicks.fi/haku?search-query=1009826;;https://images.matas.dk/encode/3348901737432_20241206123300.jpg;23046;1009826
 801880;CL Men Shave Foaming Gel 150 Ml;Clarins;Personal care;C;https://www.kicks.fi/haku?search-query=801880;;https://images.matas.dk/encode/3666057125294_20250910180954.jpg;23047;801880
 823639;BABOR Cleanformance Oil-Free Matt Cream 50 ml;BABOR;Skin care;C;https://www.kicks.fi/haku?search-query=823639;;https://images.matas.dk/encode/4015165355663_0_20231024192810.jpg;23048;823639
-1025030;Elvital Growth Booster Hårserum mod hårtab 102 FLP;L’Oréal Paris;Hair care and styling;B;https://www.kicks.fi/haku?search-query=1025030;;https://images.matas.dk/encode/3600524222963_20250620180100.jpg;23049;1025030
+1025030;Elvital Growth Booster Hårserum mod hårtab 102 FLP;L’Oréal Paris;Hair care and styling;B;https://www.kicks.fi/haku?search-query=1025030;11.40;https://images.matas.dk/encode/3600524222963_20250620180100.jpg;23049;1025030
 871771;CK Eternity Woman EDP 30 Ml;Calvin Klein;Fragrances;C;https://www.kicks.fi/haku?search-query=871771;;https://images.matas.dk/encode/88300601387_20231030124710.jpg;23050;871771
 840003;Elf Holy Hydration! Face Cream FLP;e.l.f.;Skin care;C;https://www.kicks.fi/haku?search-query=840003;;https://images.matas.dk/encode/609332828292_20241211180735.jpg;23051;840003
 1020450;MIILD Skin Light Natural Pressed Powder Wind 10 Gram;MIILD;Makeup;;https://www.kicks.fi/haku?search-query=1020450;;https://images.matas.dk/encode/5709994024959_1_20251030180141.jpg;23052;1020450
@@ -29985,7 +29985,7 @@ Product ID;Product;Brand;Category;pricing_role_category;URL;Price;Image URL;__ro
 751982;GAB Eye Tint 10;Armani;Makeup;C;https://www.kicks.fi/haku?search-query=751982;;https://images.matas.dk/encode/751982_1_20231020102201.jpg;29983;751982
 1024883;EP Nice Bergamote BAM Hand And Body Soap 500Ml;Essential Parfums;Skin care;;https://www.kicks.fi/haku?search-query=1024883;;https://images.matas.dk/encode/3770010614326_20250708180100.jpg;29984;1024883
 10359470;The Body Shop Vanilla Hand Balm  30 ml;THE BODY SHOP;Skin care;;https://www.kicks.fi/haku?search-query=10359470;;https://images.matas.dk/encode/10359470_20260727132000.jpg;29985;10359470
-828932;Elvital Glycolic Gloss Leave-in Serum 150 ml FLP;L’Oréal Paris;Hair care and styling;B;https://www.kicks.fi/haku?search-query=828932;11.40;https://images.matas.dk/encode/3600524135447_1_20240129153501.jpg;29986;828932
+828932;Elvital Glycolic Gloss Leave-in Serum 150 ml FLP;L’Oréal Paris;Hair care and styling;B;https://www.kicks.fi/haku?search-query=828932;;https://images.matas.dk/encode/3600524135447_1_20240129153501.jpg;29986;828932
 1000545;ICONIC LONDON Brow Gel Tint and Texture Chestnut Brown 3 ml;ICONIC LONDON;Makeup;C;https://www.kicks.fi/haku?search-query=1000545;;https://images.matas.dk/encode/5060945311147_20240209154537.jpg;29987;1000545
 800147;CLI Even Better Clinical Serum Foundation Spf 20 Wn 16;Clinique;Makeup;;https://www.kicks.fi/haku?search-query=800147;;;29988;800147
 1015093;Atelier Des Ors Musc Immortel EDP 100 ml (W);ATELIER DES ORS;Fragrances;;https://www.kicks.fi/haku?search-query=1015093;;https://images.matas.dk/encode/3760027140185_20250129041200.jpg;29989;1015093
