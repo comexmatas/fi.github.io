@@ -1731,7 +1731,7 @@ Product ID;Product;Brand;Category;pricing_role_category;URL;Price;Image URL;__ro
 689096;Sisley Sisleÿa Le Teint 0C Vanilla 30 Ml;Sisley;Makeup;C;https://www.kicks.fi/haku?search-query=689096;;;1729;689096
 94159931;The Body Shop White Musk Fragrance Mist 100 ml;THE BODY SHOP;Fragrances;;https://www.kicks.fi/haku?search-query=94159931;;https://images.matas.dk/encode/94159931_20260213093700.jpg;1730;94159931
 1033017;MAC Multisculpt Matte Tailor Grey Tailor Grey 4,5 ml (G);MAC;Makeup;B;https://www.kicks.fi/haku?search-query=1033017;;https://images.matas.dk/encode/773602795192_20260316180227.jpg;1731;1033017
-767148;LOR Infaillible 24h Fresh Wear Powder Fdt. 180 Rose Sand (M);L’Oréal Paris;Makeup;C;https://www.kicks.fi/haku?search-query=767148;;https://images.matas.dk/encode/3600523951741_20251217180313.jpg;1732;767148
+767148;LOR Infaillible 24h Fresh Wear Powder Fdt. 180 Rose Sand (M);L’Oréal Paris;Makeup;C;https://www.kicks.fi/haku?search-query=767148;17.50;https://images.matas.dk/encode/3600523951741_20251217180313.jpg;1732;767148
 800684;FT Remington H5600 Ioniske Curlere;Remington;Hair care and styling;C;https://www.kicks.fi/haku?search-query=800684;;https://images.matas.dk/encode/4008496872879_1_20240320063146.jpg;1733;800684
 94159977;The Body Shop Strawberry Shower Gel 250 ml;THE BODY SHOP;Skin care;;https://www.kicks.fi/haku?search-query=94159977;;https://images.matas.dk/encode/94159977_20260213093700.jpg;1734;94159977
 826886;Azzaro Chrome Azure EDT 100 ml;Azzaro;Fragrances;;https://www.kicks.fi/haku?search-query=826886;;https://images.matas.dk/encode/3614274098440_20250306180310.jpg;1735;826886
@@ -6673,7 +6673,7 @@ Product ID;Product;Brand;Category;pricing_role_category;URL;Price;Image URL;__ro
 811868;Fenty Match Stix Matte Skinstick 01 Amber;FENTY;Makeup;A;https://www.kicks.fi/haku?search-query=811868;;https://images.matas.dk/encode/840026663991_20251209180617.jpg;6671;811868
 791169;MF Facefinity Blush 050 Sun Rose (G);Max Factor;Makeup;C;https://www.kicks.fi/haku?search-query=791169;;https://images.matas.dk/encode/3616302255443.jpg;6672;791169
 839679;Elf Liquid Metallic Eyeshadow Moon FLP;e.l.f.;Makeup;C;https://www.kicks.fi/haku?search-query=839679;;https://images.matas.dk/encode/609332829855_20241106180419.jpg;6673;839679
-682614;LOR Magic BB Cream 1 Very Light (M);L’Oréal Paris;Makeup;C;https://www.kicks.fi/haku?search-query=682614;;https://images.matas.dk/encode/3600523723492.jpg;6674;682614
+682614;LOR Magic BB Cream 1 Very Light (M);L’Oréal Paris;Makeup;C;https://www.kicks.fi/haku?search-query=682614;13.60;https://images.matas.dk/encode/3600523723492.jpg;6674;682614
 728920;MBS Mild Natcreme sensitiv hud UP 50 ml Svane/AAD (G);Matas Striber;Skin care;;https://www.kicks.fi/haku?search-query=728920;;https://images.matas.dk/encode/728920_1.jpg;6675;728920
 1031851;Bobbi Brown Crystal Eyes Shadow Stick Brilliant Pink 2 g;Bobbi Brown;Makeup;A;https://www.kicks.fi/haku?search-query=1031851;;https://images.matas.dk/encode/716170359793_20260319180446.jpg;6676;1031851
 813532;Joico Blonde Life Violet Shampoo 300 ml;JOICO;Hair care and styling;C;https://www.kicks.fi/haku?search-query=813532;;;6677;813532
@@ -18362,7 +18362,7 @@ Product ID;Product;Brand;Category;pricing_role_category;URL;Price;Image URL;__ro
 1021046;YSL Libre Berry Crush 30 ml (G);Yves Saint Laurent;Fragrances;AA;https://www.kicks.fi/haku?search-query=1021046;;https://images.matas.dk/encode/3614274521368_20251204180200.jpg;18360;1021046
 819048;Revlon Nutri Color Filters 512 240 ml;Revlon;Hair care and styling;;https://www.kicks.fi/haku?search-query=819048;;https://images.matas.dk/encode/819048.jpg;18361;819048
 94165533;HIDEHERE Green Tea Collagen Gel Cleanser 25 ml;HIDEHERE;Skin care;C;https://www.kicks.fi/haku?search-query=94165533;;https://images.matas.dk/encode/94165533_1_20260303125000.jpg;18362;94165533
-636639;LOR CC Cream 1 Antirednessgreen Universal Shade (G);L’Oréal Paris;Makeup;B;https://www.kicks.fi/haku?search-query=636639;;https://images.matas.dk/encode/3600523724635.jpg;18363;636639
+636639;LOR CC Cream 1 Antirednessgreen Universal Shade (G);L’Oréal Paris;Makeup;B;https://www.kicks.fi/haku?search-query=636639;13.60;https://images.matas.dk/encode/3600523724635.jpg;18363;636639
 783765;DIOR BACKSTAGE CONCEALER 1N;DIOR;Makeup;B;https://www.kicks.fi/haku?search-query=783765;;;18364;783765
 790109;Kylie Lip&Eye Care Watermelon lip oil;Kylie Cosmetics;Makeup;C;https://www.kicks.fi/haku?search-query=790109;;https://images.matas.dk/encode/3616304916281_20260126180624.jpg;18365;790109
 1006643;BY TERRY Hyaluronic Serum Concealer 8HA 6. Peach Beige;By Terry;Makeup;C;https://www.kicks.fi/haku?search-query=1006643;;https://images.matas.dk/encode/3700076461534_1_20240826164212.jpg;18366;1006643
