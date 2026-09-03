@@ -7751,7 +7751,7 @@ Product ID;Product;Brand;Category;pricing_role_category;URL;Price;Image URL;__ro
 818199;SK Hand Soap 250 ml;Susanne Kaufmann;Skin care;;https://www.kicks.fi/haku?search-query=818199;;https://images.matas.dk/encode/818199_20231219173819.jpg;7749;818199
 1010468;Farragamo Fiamma EDP 100 ml (W);Ferragamo;Fragrances;;https://www.kicks.fi/haku?search-query=1010468;;https://images.matas.dk/encode/8052464896677_20250407181324.jpg;7750;1010468
 822518;The Body Shop Vitamin E Nourishing Night Cream 50 ml;THE BODY SHOP;Skin care;;https://www.kicks.fi/haku?search-query=822518;;https://images.matas.dk/encode/5028197270032_20260714180452.jpg;7751;822518
-823474;LP Vitamino Shampoo 500 ml;L’Oréal Professionnel;Hair care and styling;C;https://www.kicks.fi/haku?search-query=823474;22.40;https://images.matas.dk/encode/3474636975945__1.jpg;7752;823474
+823474;LP Vitamino Shampoo 500 ml;L’Oréal Professionnel;Hair care and styling;C;https://www.kicks.fi/haku?search-query=823474;;https://images.matas.dk/encode/3474636975945__1.jpg;7752;823474
 671647;Kérastase Resistance Serum Thérapiste hair serum 30 ml;KÉRASTASE;Hair care and styling;C;https://www.kicks.fi/haku?search-query=671647;;https://images.matas.dk/encode/671647_1_20231024010953.jpg;7753;671647
 1032998;MAC Skinfinish Sunstruck Matte Bro Matte Rich Golden-Wn 8,0;MAC;Makeup;;https://www.kicks.fi/haku?search-query=1032998;;https://images.matas.dk/encode/773602792795_20260409040100.jpg;7754;1032998
 1039101;MAC Studio Radiance Skin Tint Stick Light 3 8 g;MAC;Makeup;;https://www.kicks.fi/haku?search-query=1039101;;https://images.matas.dk/encode/773602786039_20260807040600.jpg;7755;1039101
@@ -19683,7 +19683,7 @@ Product ID;Product;Brand;Category;pricing_role_category;URL;Price;Image URL;__ro
 10356089;MAY Baby Lips Lip Balm 02 Cherry Me 4,8 g;Maybelline;Makeup;;https://www.kicks.fi/haku?search-query=10356089;;https://images.matas.dk/encode/3600531721985_20260409180300.jpg;19681;10356089
 820715;MAC Studio Radiance Serum Powered Foundation NC44 30 ml (W);MAC;Makeup;C;https://www.kicks.fi/haku?search-query=820715;;https://images.matas.dk/encode/773602656783.jpg;19682;820715
 811084;Fenty Eaze Drop Skin Tint 024;FENTY;Makeup;C;https://www.kicks.fi/haku?search-query=811084;;https://images.matas.dk/encode/840026650519_swatch.jpg;19683;811084
-774158;LP SE Vitamino Conditioner 200Ml;L’Oréal Professionnel;Hair care and styling;C;https://www.kicks.fi/haku?search-query=774158;;https://images.matas.dk/encode/774158_1_20231023133915.jpg;19684;774158
+774158;LP SE Vitamino Conditioner 200Ml;L’Oréal Professionnel;Hair care and styling;C;https://www.kicks.fi/haku?search-query=774158;19.80;https://images.matas.dk/encode/774158_1_20231023133915.jpg;19684;774158
 1022717;MAC Dazzleshadow Liquid Eye Sha Everything Is Sunshine;MAC;Makeup;C;https://www.kicks.fi/haku?search-query=1022717;;https://images.matas.dk/encode/773602754366_20250910181300.jpg;19685;1022717
 1009022;Bobbi Brown Long-Wear Brow Pencil Neutral Blonde;Bobbi Brown;Makeup;C;https://www.kicks.fi/haku?search-query=1009022;;https://images.matas.dk/encode/716170312088_20250311180200.jpg;19686;1009022
 1036351;Depend Design Selection Artsy Smiles Coffin nord;Depend;Makeup;C;https://www.kicks.fi/haku?search-query=1036351;;https://images.matas.dk/encode/7391715802243_20260107180800.jpg;19687;1036351
@@ -38903,7 +38903,7 @@ Product ID;Product;Brand;Category;pricing_role_category;URL;Price;Image URL;__ro
 94172670;Laura Mercier Bonne Glow Cream Face Palette Chérie;Laura Mercier;Makeup;;https://www.kicks.fi/haku?search-query=94172670;;;38901;94172670
 94141669;Shiseido Synchro Skin Radiant Lifting Concealer 304;Shiseido;Makeup;;https://www.kicks.fi/haku?search-query=94141669;;https://images.matas.dk/encode/94141669_20250825202300.jpg;38902;94141669
 94147982;Charlotte Tilbury Charlotte’S Beautiful Skin Foundation 11_Warm;Charlotte Tilbury;Makeup;C;https://www.kicks.fi/haku?search-query=94147982;;https://images.matas.dk/encode/94147982_20250827152600.jpg;38903;94147982
-89869300;LOR PRO VITAMINO COLOR MASQUE:250 ml;L’Oréal Professionnel;Hair care and styling;C;https://www.kicks.fi/haku?search-query=89869300;30.60;https://images.matas.dk/encode/89869300_20250711143100.jpg;38904;89869300
+89869300;LOR PRO VITAMINO COLOR MASQUE:250 ml;L’Oréal Professionnel;Hair care and styling;C;https://www.kicks.fi/haku?search-query=89869300;;https://images.matas.dk/encode/89869300_20250711143100.jpg;38904;89869300
 94156346;Lumene Blur Even Cover Foundation 3;Lumene;Makeup;C;https://www.kicks.fi/haku?search-query=94156346;;https://images.matas.dk/encode/94156346_1_20260130122000.jpg;38905;94156346
 94159939;BODYSH Strawberry Body Butter 200 ml;The Body Shop;Makeup;;https://www.kicks.fi/haku?search-query=94159939;;https://images.matas.dk/encode/94159939_20260213093700.jpg;38906;94159939
 772890;IsaDora Brow Powder Pen 07 Light Brown;IsaDora;Makeup;B;https://www.kicks.fi/haku?search-query=772890;;https://images.matas.dk/encode/7317851237077_20251215075500.jpg;38907;772890
