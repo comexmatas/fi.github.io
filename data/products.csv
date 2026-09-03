@@ -120,7 +120,7 @@ Product ID;Product;Brand;Category;pricing_role_category;URL;Price;Image URL;__ro
 814548;YSL All Hours Precise Angles Concealer 15 ml LW1;Yves Saint Laurent;Makeup;C;https://www.kicks.fi/haku?search-query=814548;;https://images.matas.dk/encode/3614273954402_20231211155243.jpg;118;814548
 791076;NYX PMU Shine Loud High Pigment Lip Shine Hottie Hijacker (G;NYX PROFESSIONAL MAKEUP;Makeup;C;https://www.kicks.fi/haku?search-query=791076;;https://images.matas.dk/encode/791076_1.jpg;119;791076
 829683;NYX Duck Plump Lip Lacquer Nude Swings 03;NYX PROFESSIONAL MAKEUP;Makeup;C;https://www.kicks.fi/haku?search-query=829683;;https://images.matas.dk/encode/829683_1_20240123164228.jpg;120;829683
-1023976;MAY Lifter Stix Multi-Use Highlighter- & Contouringstick 20;Maybelline;Makeup;C;https://www.kicks.fi/haku?search-query=1023976;;https://images.matas.dk/encode/3600531702038_20250801180114.jpg;121;1023976
+1023976;MAY Lifter Stix Multi-Use Highlighter- & Contouringstick 20;Maybelline;Makeup;C;https://www.kicks.fi/haku?search-query=1023976;11.60;https://images.matas.dk/encode/3600531702038_20250801180114.jpg;121;1023976
 833009;Wonderskin Wonder Blading Lip Stain Kit Crush;Wonderskin;Makeup;C;https://www.kicks.fi/haku?search-query=833009;;https://images.matas.dk/encode/850007254148_20250422180400.jpg;122;833009
 755376;Ecooking Rensescrub parfumefri 125 ml (P);Ecooking;Skin care;;https://www.kicks.fi/haku?search-query=755376;;https://images.matas.dk/encode/5712350501957_20250314110800.jpg;123;755376
 1039096;MAC Lipglazer Glossy Lip Liner M·A·Cchiato 0,25 g;MAC;Makeup;;https://www.kicks.fi/haku?search-query=1039096;;https://images.matas.dk/encode/773602799411_20260706180300.jpg;124;1039096
@@ -1006,7 +1006,7 @@ Product ID;Product;Brand;Category;pricing_role_category;URL;Price;Image URL;__ro
 1010623;Hugo Boss The Scent For Her EDP 50 ml;Hugo Boss;Fragrances;A;https://www.kicks.fi/haku?search-query=1010623;;https://images.matas.dk/encode/3616305040510_20241206181400.jpg;1004;1010623
 789784;Bioderma Atoderm Crème Ultra  200 ml;Bioderma;Skin care;;https://www.kicks.fi/haku?search-query=789784;;https://images.matas.dk/encode/3701129805329_20260304130500.jpg;1005;789784
 1001792;Round Lab Birch Juice Moisturizing Cream 80 ml;Round Lab;Skin care;C;https://www.kicks.fi/haku?search-query=1001792;;https://images.matas.dk/encode/8809738600221_20240307073745.jpg;1006;1001792
-724226;MAY Instant Anti Age Eraser Concealer 00 Ivory (P) FLP;Maybelline;Makeup;A;https://www.kicks.fi/haku?search-query=724226;;https://images.matas.dk/encode/3600531465230_20260707180138.jpg;1007;724226
+724226;MAY Instant Anti Age Eraser Concealer 00 Ivory (P) FLP;Maybelline;Makeup;A;https://www.kicks.fi/haku?search-query=724226;9.60;https://images.matas.dk/encode/3600531465230_20260707180138.jpg;1007;724226
 826833;Ecooking Saltvand til Håret  150 ml;Ecooking;Hair care and styling;;https://www.kicks.fi/haku?search-query=826833;;https://images.matas.dk/encode/826833_20240618094808.jpg;1008;826833
 698867;CLI Almost Powder Makeup Spf 15 03 Light (M);Clinique;Makeup;C;https://www.kicks.fi/haku?search-query=698867;;https://images.matas.dk/encode/698867_1.jpg;1009;698867
 790209;ORIGINAL Liquid Mineral Concealer;bareMinerals;Makeup;;https://www.kicks.fi/haku?search-query=790209;;https://images.matas.dk/encode/194248056605_20240115174738.jpg;1010;790209
@@ -1948,7 +1948,7 @@ Product ID;Product;Brand;Category;pricing_role_category;URL;Price;Image URL;__ro
 1034317;Bubble Fresh Start Gel Cleanser 50ml (W) FLP;Bubble;Skin care;A;https://www.kicks.fi/haku?search-query=1034317;;https://images.matas.dk/encode/850020056125_20260107132500.jpg;1946;1034317
 827552;DIOR RGE DIOR SATIN REFILL 999 INT24;DIOR;Makeup;C;https://www.kicks.fi/haku?search-query=827552;;https://images.matas.dk/encode/3348901659222_20240109153512.jpg;1947;827552
 835027;ITC CC Matte Light 32 ml;IT Cosmetics;Makeup;B;https://www.kicks.fi/haku?search-query=835027;;https://images.matas.dk/encode/3605972809841_20240704123538.jpg;1948;835027
-1033422;MAY Lifter Plump & Glow Foundation 355 30 ml;Maybelline;Makeup;;https://www.kicks.fi/haku?search-query=1033422;;https://images.matas.dk/encode/3600531716387_20260527180450.jpg;1949;1033422
+1033422;MAY Lifter Plump & Glow Foundation 355 30 ml;Maybelline;Makeup;;https://www.kicks.fi/haku?search-query=1033422;12.60;https://images.matas.dk/encode/3600531716387_20260527180450.jpg;1949;1033422
 1012375;Laura Mercier Caviar Hydra Crème Lipstick 555 Madison A (G);Laura Mercier;Makeup;C;https://www.kicks.fi/haku?search-query=1012375;;https://images.matas.dk/encode/194250105063_20250409181251.jpg;1950;1012375
 829355;NJ Lipstick 7739 Red Strawberry;Nilens Jord;Makeup;;https://www.kicks.fi/haku?search-query=829355;;https://images.matas.dk/encode/5709994021248_1_20250612180057.jpg;1951;829355
 1033788;This Works deep sleep pillow spray 75ml;This Works;Skin care;C;https://www.kicks.fi/haku?search-query=1033788;;https://images.matas.dk/encode/876972000955_20251127124200.jpg;1952;1033788
@@ -1981,7 +1981,7 @@ Product ID;Product;Brand;Category;pricing_role_category;URL;Price;Image URL;__ro
 1038531;Drunk Elephant Kamo Triple-Peptide Cover Drops 23C 15 ml;DRUNK ELEPHANT;Makeup;;https://www.kicks.fi/haku?search-query=1038531;;https://images.matas.dk/encode/194249415012_20260818180100.jpg;1979;1038531
 770119;GUERLAIN MAD EYES Mascara build. volume lash by lash 8,5 (G);Guerlain;Makeup;;https://www.kicks.fi/haku?search-query=770119;;https://images.matas.dk/encode/770119_20250207130000.jpg;1980;770119
 839616;CH Rouge Allure Liquid Velvet Surpren 206 Surprenante;CHANEL;Makeup;;https://www.kicks.fi/haku?search-query=839616;;https://images.matas.dk/encode/3145891712063_20240821090152.jpg;1981;839616
-1023983;MAY Fit Me Nude BB Cream SPF50 50 30 ml;Maybelline;Makeup;C;https://www.kicks.fi/haku?search-query=1023983;;https://images.matas.dk/encode/3600531712808_20250811180239.jpg;1982;1023983
+1023983;MAY Fit Me Nude BB Cream SPF50 50 30 ml;Maybelline;Makeup;C;https://www.kicks.fi/haku?search-query=1023983;9.80;https://images.matas.dk/encode/3600531712808_20250811180239.jpg;1982;1023983
 833504;Rudolph Care Sun Body Lotion SPF 30 Shimmer Edi 150 ml;Rudolph Care;Skin care;C;https://www.kicks.fi/haku?search-query=833504;;https://images.matas.dk/encode/5710111003788_20241028181539.jpg;1983;833504
 1006652;BY TERRY Ombre Blackstar Eyeshadow 100. Matte Bare;By Terry;Makeup;C;https://www.kicks.fi/haku?search-query=1006652;;https://images.matas.dk/encode/3700076461749_1_20240826164259.jpg;1984;1006652
 794258;Aveda Rosemary Mint Shampoo 1000 ml;Aveda;Hair care and styling;;https://www.kicks.fi/haku?search-query=794258;;https://images.matas.dk/encode/018084998151_20260128093900.jpg;1985;794258
